@@ -1,6 +1,6 @@
 # Heart Attack Prediction
 
-This project aims to predict the likelihood of a heart attack based on medical information provided for an individual. The dataset containing the necessary information is stored in the `heart.csv` file.
+This project aims to predict the likelihood of a heart attack based on medical information provided for an individual. The dataset containing the necessary information is stored in the `data.csv` file.
 
 ## Features
 
@@ -41,7 +41,6 @@ This project aims to predict the likelihood of a heart attack based on medical i
     - 0: Low chance of a heart attack.
     - 1: High chance of a heart attack.
 
-## How to Use
 
 1. Ensure you have the required dependencies installed. You can install them using:
 
